@@ -1,0 +1,11 @@
+## Para la pregunta 1:
+
+**ClustalW**: Es un programa y algoritmo de alineamiento múltiple de secuencias biológicas que evalúa la similitud entre cadenas de ADN o proteínas mediante alineamientos en pares y la construcción de un árbol guía progresivo; esta fue utilizada en la alineación simultánea de las secuencias de aminoácidos de las cuatro proteínas de la familia Aldehído Oxidasa (LbotAOX1, EsemAOX1, CmedAOX1 y SinfAOX1) para homologar sus posiciones e insertar los vacíos (*gaps*) necesarios.
+
+**MEGA 12 (Molecular Evolutionary Genetics Analysis)**: Es un software especializado de bioinformática diseñado para la visualización, edición de alineamientos múltiples y análisis evolutivo y filogenético de secuencias; esta fue utilizada en la visualización gráfica a color del alineamiento de aminoácidos, la corrección del desfase de la secuencia CmedAOX1 mediante la re-ejecución del alineamiento y la identificación y conteo de las 21 regiones conservadas con más de tres residuos idénticos.
+
+**NCBI CD-Search (Conserved Domain Search)**: Es un servicio web del NCBI que compara una secuencia proteica contra modelos de perfiles de la base de datos de dominios conservados (CDD) para predecir regiones funcionales y estructurales; esta fue utilizada en la caracterización y mapeo de la arquitectura de dominios de la proteína AOX1, permitiendo asociar las posiciones de las regiones conservadas encontradas con los centros de hierro-azufre ($2\text{Fe}-2\text{S}$), el sitio de unión a FAD y el dominio catalítico de molibdopterina (Moco).
+
+**Visual Studio Code (VS Code)**: Es un editor de texto estructurado y entorno de trabajo que permite la inspección, lectura y edición fina de archivos de código y datos en formatos biológicos; esta fue utilizada en la revisión del formato FASTA, la corrección de errores de sintaxis en las secuencias de entrada (como paréntesis e interrupciones) y la lectura directa del consenso en los archivos con extensión `.aln`.
+
+## Para la pregunta 2 (hipoteticamente hablando, ya usted me confirma si esto es valido o no)
